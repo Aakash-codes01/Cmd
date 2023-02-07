@@ -24,52 +24,52 @@ question 5
 
 ### peer name Rahul Kumar
 
-#####question1
+##### question1
 He has used simple commands to print the required output
 
 Instead of running commands specific to required value he used command expansion where we can concatenate the output of a command into string using 
 $(command)
 
-#####question2
+##### question2
 
 
 
-#####question3
+##### question3
 finding whether the entered no is prime or not 
 approach
 iterate from 2 to number/2 and check if number is divisible by i
 if it is then number is not prime
 else number is prime
 
-#####question4
+##### question4
 similar to the commands that i have used
 
-#####question5
+##### question5
 Similiar to my approach
 
 
 
 
 
-##peer name 
+## peer name 
 ###Dhruv singla
 
 
-####Question1 
+#### Question1 
 same as rahul approach
 but he uses different colours by using format "\033[0;35m'
 
-####Question2
+#### Question2
 made seperate loops for checking empty string ,check for number print table
 
-####Question3
+#### Question3
 same approach as mine
 
-####Question4
+#### Question4
 instead of simply writing code he created functions and use them
 
 
-####question5
+#### question5
 same as mine
 
 
