@@ -31,13 +31,15 @@ Instead of running commands specific to required value he used command expansion
 $(command)
 
 ##### question2
-
+for successful execution of the script he checks for argument using $#
+and checks the first argument as number
+and then simply uses while loop to print the table
 
 
 ##### question3
 finding whether the entered no is prime or not 
 approach
-iterate from 2 to number/2 and check if number is divisible by i
+iterate from 2 to sqrt numberand check if number is divisible by i
 if it is then number is not prime
 else number is prime
 
