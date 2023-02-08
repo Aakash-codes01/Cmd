@@ -1,11 +1,11 @@
-arr=(2 3 4 1 6 7 9 0)
+arr=(0 3 4 1 6 7 9 2)
 
 length=${#arr[@]}  
 echo "The length of array is : ${length}"
 
 i=2
-max=${arr[1]}
-min=${arr[1]}
+max=${arr[0]}
+min=${arr[0]}
 while [ $i -lt $length ];
 do
   if [ "$max" -lt ${arr[i]} ]
